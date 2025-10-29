@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Omnirest v1.05/1.0.0": {
+      "Omnirest V1.05/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
           "MySql.Data": "9.4.0",
           "MySqlConnector": "2.4.0"
         },
         "runtime": {
-          "Omnirest v1.05.dll": {}
+          "Omnirest V1.05.dll": {}
         }
       },
       "Azure.Core/1.38.0": {
@@ -683,7 +683,7 @@
     }
   },
   "libraries": {
-    "Omnirest v1.05/1.0.0": {
+    "Omnirest V1.05/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
